@@ -47,7 +47,15 @@ Security Concepts
 - IDS/IPS
 - Threat detection
 
-## Steps
+## 📄 Lab Report
+
+Click below to view the full Cybersecurity-Virtual-Lab-Network-Security-Simulation
+documentation:
+
+[![View Report](https://img.shields.io/badge/View-Full%20PDF-red?style=for-the-badge🔗)](./Cybersecurity-Virtual-Lab-Network-Security-Simulation.pdf)
+
+  <img width="783" height="652" alt="image" src="https://github.com/user-attachments/assets/b5d9af48-8202-4729-a3d8-381d917750fb" />
+
 
 
 
