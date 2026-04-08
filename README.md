@@ -6,21 +6,21 @@ The objective of this lab is to design and implement a virtualized network envir
 
 ### Skills Learned
 
-- Virtualization & Lab Setup
+- Virtualization & Lab Setup  
   Ability to create and configure multiple virtual machines in an isolated environment.
-- Network Configuration
+- Network Configuration  
 Assigning static IP addresses, configuring gateways, and ensuring proper communication between systems.
-- Troubleshooting & Diagnostics
+- Troubleshooting & Diagnostics  
 Identifying and resolving connectivity issues using network tools, firewall checks, and routing analysis.
-- Security Testing Fundamentals
+- Security Testing Fundamentals  
 Understanding how controlled attack simulations work in a safe lab environment.
-- Vulnerability Assessment
+- Vulnerability Assessment  
 Gaining exposure to identifying weaknesses in systems and services.
-- Network Scanning & Enumeration
+- Network Scanning & Enumeration  
 Learning how to gather information about target systems, including OS detection and open ports.
-- Understanding of IDS/IPS Concepts
+- Understanding of IDS/IPS Concepts  
 Applying knowledge of intrusion detection and prevention systems in a practical scenario.
-- Ethical Hacking Principles
+- Ethical Hacking Principles  
 Conducting all testing in a controlled, legal environment with a focus on learning and defense.
 
 ### Tools Used
