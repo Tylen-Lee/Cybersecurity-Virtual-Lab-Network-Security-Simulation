@@ -56,7 +56,8 @@ documentation:
 
 [![View Report](https://img.shields.io/badge/View-Full%20PDF-red?style=for-the-badge🔗)](./Cybersecurity-Virtual-Lab-Network-Security-Simulation.pdf)
 
-  <img width="783" height="652" alt="image" src="https://github.com/user-attachments/assets/b5d9af48-8202-4729-a3d8-381d917750fb" />
+  <img width="783" height="652" alt="image" src="https://github.com/user-attachments/assets/cfb511c3-114e-4b39-ae8c-458296b816ed" />
+
 
 
 
