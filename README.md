@@ -4,6 +4,8 @@
 
 The objective of this lab is to design and implement a virtualized network environment consisting of multiple virtual machines to simulate real-world network configurations. The lab aims to develop practical skills in system configuration, network communication, and cybersecurity by performing controlled security testing, vulnerability assessment, and traffic analysis. It also focuses on applying security best practices to identify, analyze, and mitigate potential threats within a safe and isolated environment.
 
+I further mapped these activities to the MITRE ATT&CK framework, linking reconnaissance (Nmap scanning) and social engineering techniques to known adversary tactics and techniques.
+
 ### Skills Learned
 
 - Virtualization & Lab Setup  
